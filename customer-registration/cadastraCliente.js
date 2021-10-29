@@ -21,3 +21,5 @@ function cadastraCliente(){
   document.getElementById('CLIFRM012-FrmStNumero').value = 5130;
 
 }
+
+cadastraCliente();
